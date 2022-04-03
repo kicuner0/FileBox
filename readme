@@ -1,0 +1,11 @@
+Прогресс:
+  Минимум + Сжатие файлов
+Технологии:
+  Клиент - WinForms
+  Сервер - WebApi
+  Доступ к БД - EF
+  БД - MsSql
+  
+ Путь к клиенту: FileBox/Release/GUI/FileBoxUI.exe
+ Путь к серверу: FileBox/Release/WebApi/FileBox.exe
+ 
